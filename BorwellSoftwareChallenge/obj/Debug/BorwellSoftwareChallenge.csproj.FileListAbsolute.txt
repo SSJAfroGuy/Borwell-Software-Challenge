@@ -1,0 +1,11 @@
+C:\Users\Ishaq\source\repos\BorwellSoftwareChallenge\bin\Debug\BorwellSoftwareChallenge.exe.config
+C:\Users\Ishaq\source\repos\BorwellSoftwareChallenge\bin\Debug\BorwellSoftwareChallenge.exe
+C:\Users\Ishaq\source\repos\BorwellSoftwareChallenge\bin\Debug\BorwellSoftwareChallenge.pdb
+C:\Users\Ishaq\source\repos\BorwellSoftwareChallenge\obj\Debug\BorwellSoftwareChallenge.csprojAssemblyReference.cache
+C:\Users\Ishaq\source\repos\BorwellSoftwareChallenge\obj\Debug\BorwellSoftwareChallenge.Properties.Resources.resources
+C:\Users\Ishaq\source\repos\BorwellSoftwareChallenge\obj\Debug\BorwellSoftwareChallenge.csproj.GenerateResource.cache
+C:\Users\Ishaq\source\repos\BorwellSoftwareChallenge\obj\Debug\BorwellSoftwareChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Ishaq\source\repos\BorwellSoftwareChallenge\obj\Debug\BorwellSoftwareChallenge.exe
+C:\Users\Ishaq\source\repos\BorwellSoftwareChallenge\obj\Debug\BorwellSoftwareChallenge.pdb
+C:\Users\Ishaq\source\repos\BorwellSoftwareChallenge\obj\Debug\BorwellSoftwareChallenge.frnHome.resources
+C:\Users\Ishaq\source\repos\BorwellSoftwareChallenge\bin\Debug\BG_Music.Wav
